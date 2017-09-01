@@ -129,7 +129,8 @@
             </tr>
             <tr>
                 <td>
-                    <asp:Button ID="btnGrabar" CssClass="btn btn-primary btn-block" runat="server" Text="Grabar" OnClick="btnGrabar_Click" ToolTip="Grabar Personal" />
+
+                    <asp:Button ID="btnGrabar" CssClass="btn btn-primary btn-block" runat="server" Text="Grabar" OnClick="btnGrabar_Click" ToolTip="Grabar Personal"/>
                     <br />
                     <asp:Button ID="btnCancelar" CssClass="btn btn-primary btn-block" runat="server" Text="Cancelar" OnClick="btnCancelar_Click" ToolTip="Cancelar" />
                 </td>
